@@ -1,1 +1,1 @@
-print("MANTAP") 
+print("OKE") 
