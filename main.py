@@ -1,1 +1,1 @@
-print("OKE 5") 
+print("Change main.py") 
